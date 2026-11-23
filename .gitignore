@@ -1,0 +1,16 @@
+# Local environments & caches
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Large generated outputs, notebooks, and local datasets
+results/
+data/
+colab_notebooks/
+*.zip
+*.parquet
+*.rds
