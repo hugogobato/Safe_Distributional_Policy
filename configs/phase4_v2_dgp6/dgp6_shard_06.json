@@ -1,0 +1,1005 @@
+{
+  "shard": "dgp6_shard_06",
+  "tasks": [
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s010-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s025-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s050-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n10000-s080-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s010-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s025-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s050-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n5000-s080-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s010-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s025-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s050-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n2500-s080-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s010-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s025-q95",
+      "seed": 1043
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q80",
+      "seed": 1005
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q80",
+      "seed": 1017
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q80",
+      "seed": 1029
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q80",
+      "seed": 1041
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q90",
+      "seed": 1003
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q90",
+      "seed": 1015
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q90",
+      "seed": 1027
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q90",
+      "seed": 1039
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q95",
+      "seed": 1001
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q95",
+      "seed": 1013
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q95",
+      "seed": 1025
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q95",
+      "seed": 1037
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s050-q95",
+      "seed": 1049
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q80",
+      "seed": 1011
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q80",
+      "seed": 1023
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q80",
+      "seed": 1035
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q80",
+      "seed": 1047
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q90",
+      "seed": 1009
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q90",
+      "seed": 1021
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q90",
+      "seed": 1033
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q90",
+      "seed": 1045
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q95",
+      "seed": 1007
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q95",
+      "seed": 1019
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q95",
+      "seed": 1031
+    },
+    {
+      "block": "dgp6_crossover",
+      "design": "d06-n1000-s080-q95",
+      "seed": 1043
+    }
+  ]
+}
