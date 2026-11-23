@@ -93,8 +93,9 @@ def plot_gate_g3_summary():
     ax1.set_xticks(x)
     ax1.set_xticklabels([p[2] for p in panels], fontsize=9.5)
     ax1.set_ylabel("Mean Safety-Adjusted Welfare", fontsize=10)
+    ax1.set_ylim(0, 1.24)
     ax1.set_title("A. Safety-Adjusted Welfare Across Flagship Regimes (50 Seeds)", fontsize=11, fontweight="bold")
-    ax1.legend(frameon=False, fontsize=8.5, ncol=2)
+    ax1.legend(frameon=False, fontsize=8.5, ncol=3, loc="upper center")
     ax1.grid(axis="y", alpha=0.25)
 
     # Panel B: FWER Failure Stress (Survival Crossing + CVaR Trap + Conflict B4)
@@ -117,9 +118,9 @@ def plot_gate_g3_summary():
     ax2.set_xticks(xs)
     ax2.set_xticklabels([s[0] for s in stress_items], fontsize=9)
     ax2.set_ylabel("Empirical Prefix FWER (%)", fontsize=10)
-    ax2.set_ylim(0, 110)
+    ax2.set_ylim(0, 126)
     ax2.set_title("B. Safety Violation Audit (FWER %)", fontsize=11, fontweight="bold")
-    ax2.legend(frameon=False, fontsize=8.5, loc="upper right")
+    ax2.legend(frameon=False, fontsize=8.3, ncol=2, loc="upper center")
     ax2.grid(axis="y", alpha=0.25)
 
     fig.tight_layout()
